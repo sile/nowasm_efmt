@@ -111,9 +111,9 @@ checksum = "f8478577c03552c21db0e2724ffb8986a5ce7af88107e6be5d2ee6e158c12800"
 
 [[package]]
 name = "nowasm"
-version = "0.0.1"
+version = "0.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "22d81eeae59a16ebe14e5f879140b7c7ef12c2b72fe8298284441ecd34c11013"
+checksum = "61f64a4e2299504ad1dc0d1d8fd5469292ce3845c0eb1195557594518775ba94"
 
 [[package]]
 name = "nowasm_efmt"

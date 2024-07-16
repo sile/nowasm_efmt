@@ -6,5 +6,5 @@ publish = false
 
 [dependencies]
 clap = { version = "4.5.9", features = ["derive"] }
-nowasm = "0.0.1"
+nowasm = "0.0.2"
 orfail = "1.1.0"
